@@ -1,0 +1,17 @@
+"WarmupPerMapConfig"
+{
+	"aim_usp_a"
+	{
+		"weapon_usp_silencer"		"1"
+	}
+	"awp_"
+	{
+		"weapon_awp"				"1"
+	}
+	"default"
+	{
+		"weapon_ak47"				"49"
+		"weapon_m4a1"				"49"
+		"weapon_awp"				"2"
+	}
+}
